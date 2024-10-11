@@ -1,2 +1,1 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+### CPS Mod is a forge mod for displaying your Clicks Per Seconds.
